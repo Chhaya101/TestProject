@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04940364-76ca-4cf4-b620-c5c61bc8fdb8" name="Changes" comment="feature file updated">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JustJudgement.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maven_command.bat" beforeDir="false" afterPath="$PROJECT_DIR$/maven_command.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +31,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Chhaya101&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Chhaya101/TestProject.git&quot;,
+    &quot;accountId&quot;: &quot;c74bc790-fc5c-4b2b-900e-ccbae6a8f548&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -43,22 +54,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/CGTCE92.ATOMIUM/IdeaProjects/Newproject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.JustJudgement [clean,install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/guptchha001/IdeaProjects/JustJudgement",
+    "onboarding.tips.debug.path": "C:/Users/guptchha001/IdeaProjects/JustJudgement/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Cucumber Java.Feature: Google">
     <configuration name="Feature: Google" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Google.feature" />
       <option name="GLUE" value="steps" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="CP-Toyota-Automation-Tests" />
+      <module name="JustJudgement" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
       <option name="SUGGESTED_NAME" value="Feature: Google" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
@@ -77,7 +97,7 @@
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/onlineServiceBooking/booking/OnlineServiceBookingForLoggedInUser.feature" />
       <option name="GLUE" value="steps" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="CP-Toyota-Automation-Tests" />
+      <module name="JustJudgement" />
       <option name="NAME_FILTER" value="^EF06 \- OSB successful for a logged in user with 1 vehicle and preferred dealer in his account$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^EF06 \- OSB successful for a logged in user with 1 vehicle and preferred dealer in his account$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: EF06 - OSB successful for a logged in user with 1 vehicle and preferred dealer in his account" />
@@ -97,7 +117,7 @@
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/sso/ResetPassword/Successful Reset Password.feature" />
       <option name="GLUE" value="steps" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="CP-Toyota-Automation-Tests" />
+      <module name="JustJudgement" />
       <option name="NAME_FILTER" value="^EF1 \- Successful Reset Password$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^EF1 \- Successful Reset Password$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: EF1 - Successful Reset Password" />
@@ -116,7 +136,7 @@
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Google.feature" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="CP-Toyota-Automation-Tests" />
+      <module name="JustJudgement" />
       <option name="NAME_FILTER" value="^Google open successful$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Google open successful$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: Google open successful" />
@@ -136,7 +156,7 @@
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/sso/Login/SSOWithASideImageEnabled.feature" />
       <option name="GLUE" value="steps" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="CP-Toyota-Automation-Tests" />
+      <module name="JustJudgement" />
       <option name="NAME_FILTER" value="^I \- EF1 \- SSO with a side image enabled and a back button$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^I \- EF1 \- SSO with a side image enabled and a back button$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: I - EF1 - SSO with a side image enabled and a back button" />
