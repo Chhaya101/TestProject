@@ -4,40 +4,378 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9396cd79-6aa8-4655-84f7-fa13142071dd" name="Changes" comment="" />
+    <list default="true" id="04940364-76ca-4cf4-b620-c5c61bc8fdb8" name="Changes" comment="feature file updated">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="CPBL-30792-EF1-Successful-Reset-password" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
-  <component name="ProjectId" id="2nI7ngUjuw1N1G1Gxj4kSrJNbdO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2aRtzVbYlh49M9pD60B6M6RH6EG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/CGTCE92.ATOMIUM/IdeaProjects/Newproject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Cucumber Java.Feature: Google">
+    <configuration name="Feature: Google" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Google.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CP-Toyota-Automation-Tests" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Google" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: EF06 - OSB successful for a logged in user with 1 vehicle and preferred dealer in his account" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/onlineServiceBooking/booking/OnlineServiceBookingForLoggedInUser.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CP-Toyota-Automation-Tests" />
+      <option name="NAME_FILTER" value="^EF06 \- OSB successful for a logged in user with 1 vehicle and preferred dealer in his account$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^EF06 \- OSB successful for a logged in user with 1 vehicle and preferred dealer in his account$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: EF06 - OSB successful for a logged in user with 1 vehicle and preferred dealer in his account" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: EF1 - Successful Reset Password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/sso/ResetPassword/Successful Reset Password.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CP-Toyota-Automation-Tests" />
+      <option name="NAME_FILTER" value="^EF1 \- Successful Reset Password$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^EF1 \- Successful Reset Password$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: EF1 - Successful Reset Password" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Google open successful" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Google.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CP-Toyota-Automation-Tests" />
+      <option name="NAME_FILTER" value="^Google open successful$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Google open successful$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Google open successful" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: I - EF1 - SSO with a side image enabled and a back button" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/sso/Login/SSOWithASideImageEnabled.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CP-Toyota-Automation-Tests" />
+      <option name="NAME_FILTER" value="^I \- EF1 \- SSO with a side image enabled and a back button$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^I \- EF1 \- SSO with a side image enabled and a back button$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: I - EF1 - SSO with a side image enabled and a back button" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="cp-toyota-automation-tests-github" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="cp-toyota-automation-tests-github" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: Google" />
+        <item itemvalue="Cucumber Java.Scenario: Google open successful" />
+        <item itemvalue="Cucumber Java.Scenario: EF06 - OSB successful for a logged in user with 1 vehicle and preferred dealer in his account" />
+        <item itemvalue="Cucumber Java.Scenario: I - EF1 - SSO with a side image enabled and a back button" />
+        <item itemvalue="Cucumber Java.Scenario: EF1 - Successful Reset Password" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9396cd79-6aa8-4655-84f7-fa13142071dd" name="Changes" comment="" />
-      <created>1728648908974</created>
+      <changelist id="04940364-76ca-4cf4-b620-c5c61bc8fdb8" name="Changes" comment="" />
+      <created>1704293486752</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1728648908974</updated>
+      <updated>1704293486752</updated>
     </task>
+    <task id="LOCAL-00001" summary="Feature file creation in progress">
+      <option name="closed" value="true" />
+      <created>1705417579146</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705417579146</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Feature file creation in progress">
+      <option name="closed" value="true" />
+      <created>1705421690554</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705421690554</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Feature file creation in progress">
+      <option name="closed" value="true" />
+      <created>1706090747639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706090747640</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Steps updated">
+      <option name="closed" value="true" />
+      <created>1706099814692</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706099814692</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New feature file for successful reset password">
+      <option name="closed" value="true" />
+      <created>1706606426135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706606426135</updated>
+    </task>
+    <task id="LOCAL-00006" summary="steps updated">
+      <option name="closed" value="true" />
+      <created>1706866504333</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706866504333</updated>
+    </task>
+    <task id="LOCAL-00007" summary="steps updated">
+      <option name="closed" value="true" />
+      <created>1706891800002</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706891800002</updated>
+    </task>
+    <task id="LOCAL-00008" summary="steps updated">
+      <option name="closed" value="true" />
+      <created>1707234397040</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707234397040</updated>
+    </task>
+    <task id="LOCAL-00009" summary="steps updated">
+      <option name="closed" value="true" />
+      <created>1707235060394</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707235060394</updated>
+    </task>
+    <task id="LOCAL-00010" summary="steps updated">
+      <option name="closed" value="true" />
+      <created>1707749873488</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707749873488</updated>
+    </task>
+    <task id="LOCAL-00011" summary="steps updated">
+      <option name="closed" value="true" />
+      <created>1707904470775</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1707904470775</updated>
+    </task>
+    <task id="LOCAL-00012" summary="steps updated">
+      <option name="closed" value="true" />
+      <created>1707906845308</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1707906845308</updated>
+    </task>
+    <task id="LOCAL-00013" summary="steps updated">
+      <option name="closed" value="true" />
+      <created>1707925102454</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1707925102454</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feature file updated">
+      <option name="closed" value="true" />
+      <created>1707990815472</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1707990815472</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feature file updated">
+      <option name="closed" value="true" />
+      <created>1707990879842</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1707990879842</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feature file updated">
+      <option name="closed" value="true" />
+      <created>1708099816615</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1708099816615</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feature file updated">
+      <option name="closed" value="true" />
+      <created>1708508363724</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1708508363724</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feature file updated">
+      <option name="closed" value="true" />
+      <created>1708603534614</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1708603534614</updated>
+    </task>
+    <task id="LOCAL-00019" summary="feature file updated">
+      <option name="closed" value="true" />
+      <created>1709311252994</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709311252994</updated>
+    </task>
+    <task id="LOCAL-00020" summary="feature file updated">
+      <option name="closed" value="true" />
+      <created>1710766391781</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1710766391781</updated>
+    </task>
+    <task id="LOCAL-00021" summary="feature file updated">
+      <option name="closed" value="true" />
+      <created>1711637091299</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1711637091299</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feature file creation in progress" />
+    <MESSAGE value="Steps updated" />
+    <MESSAGE value="New feature file for successful reset password" />
+    <MESSAGE value="steps updated" />
+    <MESSAGE value="feature file updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature file updated" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pages/onlineServiceBooking/SelectVehiclePage.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steps/GoogleSteps.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
