@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04940364-76ca-4cf4-b620-c5c61bc8fdb8" name="Changes" comment="feature file updated">
-      <change afterPath="$PROJECT_DIR$/JustJudgement.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maven_command.bat" beforeDir="false" afterPath="$PROJECT_DIR$/maven_command.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/Google.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/Google.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/GooglePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/GooglePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/onlineServiceBooking/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/WelcomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/onlineServiceBooking/WelcomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/GoogleSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/GoogleSteps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Cucumber Java.Feature: Google.executor": "Run",
+    "Cucumber Java.Scenario: Google open successful test.executor": "Run",
+    "Cucumber Java.Scenario: Google open successful.executor": "Run",
+    "Cucumber Java.Scenario: Google open successfull.executor": "Run",
     "Maven.JustJudgement [clean,install].executor": "Run",
+    "Maven.JustJudgement [clean].executor": "Run",
+    "Maven.JustJudgement [compile].executor": "Run",
+    "Maven.JustJudgement [install].executor": "Run",
+    "Maven.JustJudgement [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -64,15 +74,15 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/guptchha001/IdeaProjects/JustJudgement",
+    "last_opened_file_path": "C:/Users/guptchha001/IdeaProjects/JustJudgement - Copy",
     "onboarding.tips.debug.path": "C:/Users/guptchha001/IdeaProjects/JustJudgement/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Cucumber Java.Feature: Google">
+  <component name="RunManager" selected="Cucumber Java.Scenario: Google open successfull">
     <configuration name="Feature: Google" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Google.feature" />
@@ -112,15 +122,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: EF1 - Successful Reset Password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Google open successful test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/sso/ResetPassword/Successful Reset Password.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Google.feature" />
       <option name="GLUE" value="steps" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="JustJudgement" />
-      <option name="NAME_FILTER" value="^EF1 \- Successful Reset Password$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^EF1 \- Successful Reset Password$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: EF1 - Successful Reset Password" />
+      <option name="NAME_FILTER" value="^Google open successful test$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Google open successful test$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Google open successful test" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -151,15 +161,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: I - EF1 - SSO with a side image enabled and a back button" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Google open successfull" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/sso/Login/SSOWithASideImageEnabled.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Google.feature" />
       <option name="GLUE" value="steps" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="JustJudgement" />
-      <option name="NAME_FILTER" value="^I \- EF1 \- SSO with a side image enabled and a back button$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^I \- EF1 \- SSO with a side image enabled and a back button$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: I - EF1 - SSO with a side image enabled and a back button" />
+      <option name="NAME_FILTER" value="^Google open successfull$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Google open successfull$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Google open successfull" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -186,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Feature: Google" />
+        <item itemvalue="Cucumber Java.Scenario: Google open successfull" />
         <item itemvalue="Cucumber Java.Scenario: Google open successful" />
+        <item itemvalue="Cucumber Java.Scenario: Google open successful test" />
+        <item itemvalue="Cucumber Java.Feature: Google" />
         <item itemvalue="Cucumber Java.Scenario: EF06 - OSB successful for a logged in user with 1 vehicle and preferred dealer in his account" />
-        <item itemvalue="Cucumber Java.Scenario: I - EF1 - SSO with a side image enabled and a back button" />
-        <item itemvalue="Cucumber Java.Scenario: EF1 - Successful Reset Password" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +381,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711637091299</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="feature file updated">
+      <option name="closed" value="true" />
+      <created>1733483584072</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1733483584072</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -389,11 +407,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/pages/onlineServiceBooking/SelectVehiclePage.java</url>
           <line>72</line>
           <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/steps/GoogleSteps.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

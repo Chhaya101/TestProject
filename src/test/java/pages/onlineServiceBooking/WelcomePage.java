@@ -6,7 +6,7 @@
  * Reviewed by:
  * Reviewed Date:
  */
-package pages;
+package pages.onlineServiceBooking;
 
 import static com.atf.handlers.ErrorReporter.reportErrorWithMessage;
 

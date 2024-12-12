@@ -1,5 +1,6 @@
 package steps;
 import com.atf.base.BaseStep;
+import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import pages.GooglePage;
 
@@ -14,13 +15,15 @@ public class GoogleSteps extends BaseStep {
     }
     @Given("^User opens the webpage \"([^\"]*)\"$")
     public void user_opens_the_webpage(String url)   {
+
         driver.navigate().to(url);
         System.out.println("test");
 
-        System.out.println("test11");
-
-
     }
 
+    @And("^I click on Login$")
+    public void iClickOnLogin() {
+        googlePage.click();
+    }
 }
 

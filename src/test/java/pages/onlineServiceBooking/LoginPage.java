@@ -1,4 +1,4 @@
-package pages;
+package pages.onlineServiceBooking;
 
 import com.atf.base.BasePage;
 // import com.local.transformation.UserAccount;
